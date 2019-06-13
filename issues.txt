@@ -1,0 +1,2 @@
+-- exit function for clients crashes server
+-- more than 5 clients allowed to join server at once currently
