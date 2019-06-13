@@ -7,9 +7,9 @@
 
 
 
-Chat server input: <IP> <port>  
+    Chat server input: <IP> <port>  
  
-example arguments: 192.168.1.101 5000
+    example arguments: 192.168.1.101 5000
  
  
  
@@ -18,6 +18,6 @@ example arguments: 192.168.1.101 5000
   
   
   
-Chat client input: <user> <port> <chat server>
+    Chat client input: <user> <port> <chat server>
  
-example arguments: user1 5001 192.168.1.101:5000
+    example arguments: user1 5001 192.168.1.101:5000
